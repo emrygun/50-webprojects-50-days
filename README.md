@@ -14,8 +14,18 @@ Projects of [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.
     <td><a href="https://emrygun.github.io/50-webprojects-50-days/day1_expanding-cards">Demo</a></td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>2</td>
+    <td>Progress Steps</td>
+    <td><a href="https://emrygun.github.io/50-webprojects-50-days/day2_progress-steps">Demo</a></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Rotating Navigation</td>
+    <td><a href="https://emrygun.github.io/50-webprojects-50-days/day3_rotating-navigation">Demo</a></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Hidden Search Widget</td>
+    <td><a href="https://emrygun.github.io/50-webprojects-50-days/day4_hidden-search-widget">Demo</a></td>
   </tr>
 </table>
