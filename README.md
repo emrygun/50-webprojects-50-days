@@ -28,4 +28,29 @@ Projects of [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.
     <td>Hidden Search Widget</td>
     <td><a href="https://emrygun.github.io/50-webprojects-50-days/day4_hidden-search-widget">Demo</a></td>
   </tr>
+  <tr>
+    <td>5</td>
+    <td>Blurry Loading</td>
+    <td><a href="https://emrygun.github.io/50-webprojects-50-days/day5_blurry-loading">Demo</a></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Scroll Animation</td>
+    <td><a href="https://emrygun.github.io/50-webprojects-50-days/day6_scroll-animation">Demo</a></td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Split Landing Page</td>
+    <td><a href="https://emrygun.github.io/50-webprojects-50-days/day7_split-landing-page">Demo</a></td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Form Wave Animation</td>
+    <td><a href="https://emrygun.github.io/50-webprojects-50-days/day8_form-wave-animation">Demo</a></td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>Sound Board</td>
+    <td><a href="https://emrygun.github.io/50-webprojects-50-days/day9_sound-board">Demo</a></td>
+  </tr>
 </table>
