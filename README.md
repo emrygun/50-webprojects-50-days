@@ -53,4 +53,29 @@ Projects of [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.
     <td>Sound Board</td>
     <td><a href="https://emrygun.github.io/50-webprojects-50-days/day9_sound-board">Demo</a></td>
   </tr>
+  <tr>
+    <td>10</td>
+    <td>Dad Jokes</td>
+    <td><a href="https://emrygun.github.io/50-webprojects-50-days/day10_dad-jokes">Demo</a></td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>Event KeyCodes</td>
+    <td><a href="https://emrygun.github.io/50-webprojects-50-days/day11_event-keycodes">Demo</a></td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>FAQ Collapse</td>
+    <td><a href="https://emrygun.github.io/50-webprojects-50-days/day12_faq-collapse">Demo</a></td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>Random Choice Picker</td>
+    <td><a href="https://emrygun.github.io/50-webprojects-50-days/day13_random-choice-picker">Demo</a></td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>Animated Navigation</td>
+    <td><a href="https://emrygun.github.io/50-webprojects-50-days/day14_animated-navigation">Demo</a></td>
+  </tr>
 </table>
