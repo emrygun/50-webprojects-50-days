@@ -78,4 +78,14 @@ Projects of [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.
     <td>Animated Navigation</td>
     <td><a href="https://emrygun.github.io/50-webprojects-50-days/day14_animated-navigation">Demo</a></td>
   </tr>
+  <tr>
+    <td>15</td>
+    <td>Incrementing Counter</td>
+    <td><a href="https://emrygun.github.io/50-webprojects-50-days/day15_incrementing-counter">Demo</a></td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>Drink Water</td>
+    <td><a href="https://emrygun.github.io/50-webprojects-50-days/day16_drink-water">Demo</a></td>
+  </tr>
 </table>
