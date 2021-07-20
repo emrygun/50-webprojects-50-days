@@ -88,4 +88,9 @@ Projects of [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.
     <td>Drink Water</td>
     <td><a href="https://emrygun.github.io/50-webprojects-50-days/day16_drink-water">Demo</a></td>
   </tr>
+  <tr>
+    <td>17</td>
+    <td>Movie App</td>
+    <td><a href="https://emrygun.github.io/50-webprojects-50-days/day17_movie-app">Demo</a></td>
+  </tr>
 </table>
