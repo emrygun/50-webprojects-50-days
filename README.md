@@ -88,9 +88,47 @@ Projects of [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.
     <td>Drink Water</td>
     <td><a href="https://emrygun.github.io/50-webprojects-50-days/day16_drink-water">Demo</a></td>
   </tr>
+
   <tr>
     <td>17</td>
     <td>Movie App</td>
     <td><a href="https://emrygun.github.io/50-webprojects-50-days/day17_movie-app">Demo</a></td>
   </tr>
+
+  <tr>
+    <td>18</td>
+    <td>Background Slider</td>
+    <td><a href="https://emrygun.github.io/50-webprojects-50-days/day18_background-slider">Demo</a></td>
+  </tr>
+
+  <tr>
+    <td>19</td>
+    <td>Theme Clock</td>
+    <td><a href="https://emrygun.github.io/50-webprojects-50-days/day19_theme-clock">Demo</a></td>
+  </tr>
+
+  <tr>
+    <td>20</td>
+    <td>Button Ripple Effect</td>
+    <td><a href="https://emrygun.github.io/50-webprojects-50-days/day20_button-ripple-effect">Demo</a></td>
+  </tr>
+
+  <tr>
+    <td>21</td>
+    <td>Drag N Drop</td>
+    <td><a href="https://emrygun.github.io/50-webprojects-50-days/day21_drag-n-drop">Demo</a></td>
+  </tr>
+
+  <tr>
+    <td>22</td>
+    <td>Drawing App</td>
+    <td><a href="https://emrygun.github.io/50-webprojects-50-days/day22_drawing-app">Demo</a></td>
+  </tr>
+
+  <tr>
+    <td>23</td>
+    <td>Kinetic CSS Loader</td>
+    <td><a href="https://emrygun.github.io/50-webprojects-50-days/day23_kinetic-css-loader">Demo</a></td>
+  </tr>
+
 </table>
