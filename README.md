@@ -131,4 +131,22 @@ Projects of [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.
     <td><a href="https://emrygun.github.io/50-webprojects-50-days/day23_kinetic-css-loader">Demo</a></td>
   </tr>
 
+  <tr>
+    <td>24</td>
+    <td>Content Placeholder</td>
+    <td><a href="https://emrygun.github.io/50-webprojects-50-days/day24_content-placeholder">Demo</a></td>
+  </tr>
+
+  <tr>
+    <td>25</td>
+    <td>Sticky Navbar</td>
+    <td><a href="https://emrygun.github.io/50-webprojects-50-days/day25_sticky-navbar">Demo</a></td>
+  </tr>
+
+  <tr>
+    <td>26</td>
+    <td>Double Vertical Slider</td>
+    <td><a href="https://emrygun.github.io/50-webprojects-50-days/day26_double-vertical-slider">Demo</a></td>
+  </tr>
+
 </table>
