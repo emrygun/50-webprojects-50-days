@@ -149,4 +149,16 @@ Projects of [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.
     <td><a href="https://emrygun.github.io/50-webprojects-50-days/day26_double-vertical-slider">Demo</a></td>
   </tr>
 
+  <tr>
+    <td>27</td>
+    <td>Toast Notification</td>
+    <td><a href="https://emrygun.github.io/50-webprojects-50-days/day27_toast-notification">Demo</a></td>
+  </tr>
+
+  <tr>
+    <td>28</td>
+    <td>Github Profiles</td>
+    <td><a href="https://emrygun.github.io/50-webprojects-50-days/day28_github-profiles">Demo</a></td>
+  </tr>
+
 </table>
